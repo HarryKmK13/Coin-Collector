@@ -20,7 +20,7 @@
 
 ### Project Structure
 <p align="center">
-  <img src="UML.png" alt="UML" width="1000">
+  <img src="UML copy.png" alt="UML" width="1000">
 </p>
 <p align="center">
     <strong> UML Diagram </strong>
