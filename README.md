@@ -26,16 +26,6 @@
     <strong> UML Diagram </strong>
 </p>
 
----
-
-<p align="center">
-  <img src="ActivityDiagram.png" alt="Activity Diagram" title="Activity Diagram" width="300">
-</p>
-<p align="center">
-    <strong> Activity Diagram </strong>
-</p>
-
-
 
 
 ### Algorithms
