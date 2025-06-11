@@ -1,7 +1,9 @@
 # Build Your Own World
 
 ### About the Project
-[Needs description of the project here]
+Build Your Own World (BYOW) is a tile-based adventure game developed as part of UC Berkeley’s CS 61B Spring 2025 Project 3. The game procedurally generates a unique world of rooms and hallways using a user-input seed. Players can explore the world using keyboard controls, collect coins, and save/load their progress at any point. The game focuses on software design, algorithmic thinking, object-oriented programming, and creativity.
+
+This project was developed in Java, leveraging a custom graphics engine (TileEngine) to render the world and support interactivity.
 
 
 ### Demo
@@ -56,7 +58,6 @@ Currently using files
 - [x] `AutograderBuddy.java`
 - [x] `World.java`
 - [x] `Theme.java`
-- [ ] `ThemeSet.java`  <sub><sup>(Temporarily removed due to AutoGrader tests)</sub></sup>
 - [x] `TERenderer.java`
 - [x] `TETile.java`
 - [x] `Tileset.java`
