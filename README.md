@@ -49,8 +49,7 @@ A `PriorityQueue` was also used so that the algorithm runs from the leftmost roo
 
 
 ### Contributors
-1. **Wai Han**
-2. **Pranay Mallik**
+**Kyaw Min Khant**
 
 ### Acknowledgement
 - Documentation and README are written with the help of LLM.
